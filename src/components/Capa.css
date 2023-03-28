@@ -1,0 +1,19 @@
+.movie-card-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f1f1f1;
+    padding: 10px;
+  }
+  
+  .movie-title {
+    font-size: 20px;
+    margin: 0;
+  }
+  
+  .movie-rating {
+    font-size: 16px;
+    margin: 0;
+    color: #666;
+  }
